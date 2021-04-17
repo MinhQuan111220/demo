@@ -1,0 +1,7 @@
+B1: tao 1 repo tren git 
+B2: clone repo ve may
+B3: thao tac voi folder down ve
+B4: git add . -> them tat ca file/folder
+    git add file-name/folder-name
+B5: git commit -m "message" -> message = tin nhan ngan gon kem tat ca file duoc up
+B6: git push
